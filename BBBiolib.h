@@ -1,6 +1,6 @@
 /* BBBiolib.h
  *
- * Simple I/O library of Beaglebone balck
+ * Simple I/O library of Beaglebone Black
  */
 /* ----------------------------------------------------------------------- */
 #include "BBBiolib_ADCTSC.h"

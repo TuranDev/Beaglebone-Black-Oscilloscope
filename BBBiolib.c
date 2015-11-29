@@ -1,18 +1,8 @@
 /* BBBiolib.c
+ *
  * Simple I/O library of Beaglebone balck
  *
- * this fnnction is under construction , so mix some libio and BBBIO express ,
- *     libio : support some basic function for Beaglebone black I/O .
- *     BBBIO : support I/O function using GPIO as unit .
- *
- * all function will integrated as soon as fast .
- *
- * v1 	October 2013 - shabaz (iolib)
- * v2 	October 2013 - shabaz (iolib)
- * v2.1 November 2013 - VagetableAvenger (BBBlib)
- * v2.2 November 2013 - VagetableAvenger (BBBlib) : add GPIO Enable/Disable function
- * v2.4 November.23 2013 - VagetableAvenger (BBBlib) : add whole GPIO control function (I/O and direction set)
-*/
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
